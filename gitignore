@@ -1,0 +1,34 @@
+# Unreal Engine generated folders — do not push these
+Binaries/
+Build/
+Intermediate/
+Saved/
+DerivedDataCache/
+.vs/
+
+# Unreal auto-generated files
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Keep these — they are needed
+!Source/
+!Content/
+!Config/
+!*.uproject

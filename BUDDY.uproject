@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.27",
+	"Category": "",
+	"Description": "BUDDY - Robot Companion VR with Voice, Interactive Objects, and AI Conversation",
+	"Modules": [
+		{
+			"Name": "BUDDY",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": ["Engine", "UMG"]
+		}
+	],
+	"Plugins": [
+		{"Name": "OculusVR", "Enabled": true},
+		{"Name": "EnhancedInput", "Enabled": true}
+	]
+}
