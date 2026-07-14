@@ -299,6 +299,7 @@ Open a terminal (Command Prompt, PowerShell, or VS Code terminal) and run:
 ```bash
 git clone https://github.com/tanvirrsajal/BUDDY-Robot-Companion-VR-Experience.git BUDDY
 cd BUDDY
+git lfs pull
 ```
 
 
